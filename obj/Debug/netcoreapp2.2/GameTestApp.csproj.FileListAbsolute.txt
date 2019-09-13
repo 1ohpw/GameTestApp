@@ -1,0 +1,11 @@
+C:\Users\v-deree\Projects\GameTestApp\bin\Debug\netcoreapp2.2\GameTestApp.deps.json
+C:\Users\v-deree\Projects\GameTestApp\bin\Debug\netcoreapp2.2\GameTestApp.runtimeconfig.json
+C:\Users\v-deree\Projects\GameTestApp\bin\Debug\netcoreapp2.2\GameTestApp.runtimeconfig.dev.json
+C:\Users\v-deree\Projects\GameTestApp\bin\Debug\netcoreapp2.2\GameTestApp.dll
+C:\Users\v-deree\Projects\GameTestApp\bin\Debug\netcoreapp2.2\GameTestApp.pdb
+C:\Users\v-deree\Projects\GameTestApp\obj\Debug\netcoreapp2.2\GameTestApp.csprojAssemblyReference.cache
+C:\Users\v-deree\Projects\GameTestApp\obj\Debug\netcoreapp2.2\GameTestApp.csproj.CoreCompileInputs.cache
+C:\Users\v-deree\Projects\GameTestApp\obj\Debug\netcoreapp2.2\GameTestApp.AssemblyInfoInputs.cache
+C:\Users\v-deree\Projects\GameTestApp\obj\Debug\netcoreapp2.2\GameTestApp.AssemblyInfo.cs
+C:\Users\v-deree\Projects\GameTestApp\obj\Debug\netcoreapp2.2\GameTestApp.dll
+C:\Users\v-deree\Projects\GameTestApp\obj\Debug\netcoreapp2.2\GameTestApp.pdb
