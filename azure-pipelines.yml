@@ -2,7 +2,7 @@ pool:
   vmImage: 'Ubuntu-16.04'
 
 steps:
-- task: DotNetCoreInstaller@
+- task: DotNetCoreInstaller@0
   displayName: 'Use .NET Core SDK 2.1.802'
   inputs:
     version: 2.1.802git 
